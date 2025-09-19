@@ -1,4 +1,4 @@
-# Water Pump Functionality Prediction 
+# Water Pump Functionality Prediction (On Going Project)
 **By Assimagbe Albert Raphael**
 
 ## Project Overview
