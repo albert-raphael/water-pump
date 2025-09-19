@@ -1,6 +1,8 @@
 # Water Pump Functionality Prediction (On Going Project)
 **By Assimagbe Albert Raphael**
 
+<img src="Image/hand_pump_diagram.png"/>
+
 ## Project Overview
 In this project, I will develop machine learning models to predict the functionality status of water pumps across Tanzania based on a variety of features including location, water quality, management structure, and technical specifications. This project addresses a critical infrastructure challenge: identifying which water pumps are functional, which need repairs, and which are non-functional to improve maintenance operations and ensure communities have access to clean water.
 
