@@ -1,4 +1,4 @@
-# Water Pump Functionality Prediction
+# Water Pump Functionality Prediction Project
 **By Assimagbe Albert Raphael**
 
 <img src="Image/hand_pump_diagram.png"/>
